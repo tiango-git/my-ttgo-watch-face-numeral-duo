@@ -1,0 +1,38 @@
+{
+  "api_level": 3,
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H",
+      "font": "quickfyr120.font",
+      "font_color": "#a0b8cc",
+      "font_size": 120,
+      "align": "right",
+      "hide_interval": 0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "x_size": 240,
+      "y_size": 120
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%M",
+      "font": "quickfyr120.font",
+      "font_color": "#577fa3",
+      "font_size": 120,
+      "align": "right",
+      "hide_interval": 0,
+      "x_offset": 0,
+      "y_offset": 120,
+      "x_size": 240,
+      "y_size": 120
+    }
+  ]
+}
